@@ -8,15 +8,15 @@ Cette section regroupe l'ensemble des documents légaux et réglementaires relat
 
 ### Pour les utilisateurs francophones 🇫🇷
 
-- **[Conditions Générales d'Utilisation (CGU)](./CGU/latest/fr.md)** - Règles d'utilisation de l'application
-- **[Politique de Confidentialité](./PrivacyPolicy/latest/fr.md)** - Protection et traitement de vos données personnelles
-- **[Avertissement Bêta](./BetaDisclaimer/latest/fr.md)** - Informations sur la version bêta
+- **[Conditions Générales d'Utilisation (CGU)](./CGU/V1.0.0/fr.md)** - Règles d'utilisation de l'application
+- **[Politique de Confidentialité](./PrivacyPolicy/V1.0.0/fr.md)** - Protection et traitement de vos données personnelles
+- **[Avertissement Bêta](./BetaDisclaimer/V1.0.0/fr.md)** - Informations sur la version bêta
 
 ### For English-speaking users 🇬🇧
 
-- **[Terms of Service (TOS)](./CGU/latest/en.md)** - Application usage rules
-- **[Privacy Policy](./PrivacyPolicy/latest/en.md)** - Protection and processing of your personal data
-- **[Beta Disclaimer](./BetaDisclaimer/latest/en.md)** - Beta version information
+- **[Terms of Service (TOS)](./CGU/V1.0.0/en.md)** - Application usage rules
+- **[Privacy Policy](./PrivacyPolicy/V1.0.0/en.md)** - Protection and processing of your personal data
+- **[Beta Disclaimer](./BetaDisclaimer/V1.0.0/en.md)** - Beta version information
 
 ## ⚖️ Conformité légale
 
@@ -67,9 +67,9 @@ Pour exercer ces droits, consultez la section "Paramètres > Compte > Mes donné
 
 | Document                 | FR                                           | EN                                        | Description                           |
 | ------------------------ | -------------------------------------------- | ----------------------------------------- | ------------------------------------- |
-| Conditions d'utilisation | [📄 CGU](./CGU/latest/fr.md)                 | [📄 TOS](./CGU/latest/en.md)              | Règles d'usage de l'application       |
-| Confidentialité          | [🔒 Politique](./PrivacyPolicy/latest/fr.md) | [🔒 Policy](./PrivacyPolicy/latest/en.md) | Traitement des données                |
-| Avertissement Bêta       | [⚠️ Bêta](./BetaDisclaimer/latest/fr.md)     | [⚠️ Beta](./BetaDisclaimer/latest/en.md)  | Informations version bêta             |
+| Conditions d'utilisation | [📄 CGU](./CGU/V1.0.0/fr.md)                 | [📄 TOS](./CGU/V1.0.0/en.md)              | Règles d'usage de l'application       |
+| Confidentialité          | [🔒 Politique](./PrivacyPolicy/V1.0.0/fr.md) | [🔒 Policy](./PrivacyPolicy/V1.0.0/en.md) | Traitement des données                |
+| Avertissement Bêta       | [⚠️ Bêta](./BetaDisclaimer/V1.0.0/fr.md)     | [⚠️ Beta](./BetaDisclaimer/V1.0.0/en.md)  | Informations version bêta             |
 | Cookies                  | [🍪 Cookies](./COOKIES_FR.md)                | [🍪 Cookies](./COOKIES_EN.md)             | Utilisation des cookies _(optionnel)_ |
 | Licence                  | [⚖️ License](./LICENSE)                      | -                                         | Licence open-source du code           |
 
