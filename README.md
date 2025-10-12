@@ -8,13 +8,15 @@ Cette section regroupe l'ensemble des documents légaux et réglementaires relat
 
 ### Pour les utilisateurs francophones 🇫🇷
 
-- **[Conditions Générales d'Utilisation (CGU)](./CGU/{version}/fr.md)** - Règles d'utilisation de l'application
-- **[Politique de Confidentialité](./PRIVACY_POLICY_FR.md)** - Protection et traitement de vos données personnelles
+- **[Conditions Générales d'Utilisation (CGU)](./CGU/latest/fr.md)** - Règles d'utilisation de l'application
+- **[Politique de Confidentialité](./PrivacyPolicy/latest/fr.md)** - Protection et traitement de vos données personnelles
+- **[Avertissement Bêta](./BetaDisclaimer/latest/fr.md)** - Informations sur la version bêta
 
 ### For English-speaking users 🇬🇧
 
-- **[Terms of Service (TOS)](./CGU/{version}/en.md)** - Application usage rules
-- **[Privacy Policy](./PRIVACY_POLICY_EN.md)** - Protection and processing of your personal data
+- **[Terms of Service (TOS)](./CGU/latest/en.md)** - Application usage rules
+- **[Privacy Policy](./PrivacyPolicy/latest/en.md)** - Protection and processing of your personal data
+- **[Beta Disclaimer](./BetaDisclaimer/latest/en.md)** - Beta version information
 
 ## ⚖️ Conformité légale
 
@@ -63,12 +65,13 @@ Pour exercer ces droits, consultez la section "Paramètres > Compte > Mes donné
 
 ## 🔍 Index rapide
 
-| Document                 | FR                                     | EN                                  | Description                           |
-| ------------------------ | -------------------------------------- | ----------------------------------- | ------------------------------------- |
-| Conditions d'utilisation | [📄 CGU](./CGU_FR.md)                  | [📄 TOS](./TOS_EN.md)               | Règles d'usage de l'application       |
-| Confidentialité          | [🔒 Politique](./PRIVACY_POLICY_FR.md) | [🔒 Policy](./PRIVACY_POLICY_EN.md) | Traitement des données                |
-| Cookies                  | [🍪 Cookies](./COOKIES_FR.md)          | [🍪 Cookies](./COOKIES_EN.md)       | Utilisation des cookies _(optionnel)_ |
-| Licence                  | [⚖️ License](./LICENSE)                | -                                   | Licence open-source du code           |
+| Document                 | FR                                           | EN                                        | Description                           |
+| ------------------------ | -------------------------------------------- | ----------------------------------------- | ------------------------------------- |
+| Conditions d'utilisation | [📄 CGU](./CGU/latest/fr.md)                 | [📄 TOS](./CGU/latest/en.md)              | Règles d'usage de l'application       |
+| Confidentialité          | [🔒 Politique](./PrivacyPolicy/latest/fr.md) | [🔒 Policy](./PrivacyPolicy/latest/en.md) | Traitement des données                |
+| Avertissement Bêta       | [⚠️ Bêta](./BetaDisclaimer/latest/fr.md)     | [⚠️ Beta](./BetaDisclaimer/latest/en.md)  | Informations version bêta             |
+| Cookies                  | [🍪 Cookies](./COOKIES_FR.md)                | [🍪 Cookies](./COOKIES_EN.md)             | Utilisation des cookies _(optionnel)_ |
+| Licence                  | [⚖️ License](./LICENSE)                      | -                                         | Licence open-source du code           |
 
 ---
 
