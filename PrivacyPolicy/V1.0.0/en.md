@@ -1,6 +1,6 @@
-# Privacy Policy - SquadLocker
+# Privacy Policy - SquadLocker / Le Vestiaire
 
-**Last updated: October 12, 2025**
+**Last updated: June 30, 2026**
 
 ## Introduction
 
