@@ -1,4 +1,4 @@
-# Conditions Générales d'Utilisation - SquadLocker
+# Conditions Générales d'Utilisation - SquadLocker / Le Vestiaire
 
 **Dernière mise à jour : 12 octobre 2025**
 
