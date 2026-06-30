@@ -1,6 +1,6 @@
-# 📜 Informations Légales - SquadLocker
+# 📜 Informations Légales - SquadLocker / Le Vestiaire
 
-Bienvenue dans la section des informations légales de **SquadLocker**.
+Bienvenue dans la section des informations légales de **SquadLocker / Le Vestiaire**.
 
 Cette section regroupe l'ensemble des documents légaux et réglementaires relatifs à l'utilisation de l'application SquadLocker. Ces documents définissent les droits et obligations des utilisateurs ainsi que nos engagements en matière de protection des données et de transparence.
 
