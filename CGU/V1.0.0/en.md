@@ -1,4 +1,4 @@
-# Terms of Service - SquadLocker
+# Terms of Service - SquadLocker / Le Vestiaire
 
 **Last updated: October 12, 2025**
 
